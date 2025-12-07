@@ -27,10 +27,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=bernadethlovaaaaa&limit=5&theme=graywhite&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## 👾 My GitHub Activity Pacman
-## 🟡 Pac-Man eating my contribution graph
 
 <p align="center">
-  <img src="https://github.com/Platane/pacman/raw/masters/pacman.svg" />
+  <img src="https://pacman.antfu.me/bernadethlovaaaaa?theme=light&color=%23ff69b4&animation=true" />
 </p>
 
