@@ -27,3 +27,9 @@
 ![](https://github-contributor-stats.vercel.app/api?username=bernadethlovaaaaa&limit=5&theme=graywhite&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👾 My GitHub Activity Pacman
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
