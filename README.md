@@ -28,8 +28,9 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 👾 My GitHub Activity Pacman
+## 🟡 Pac-Man eating my contribution graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github.com/Platane/pacman/raw/masters/pacman.svg" />
 </p>
 
