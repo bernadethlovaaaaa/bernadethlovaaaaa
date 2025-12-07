@@ -28,7 +28,8 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+
 <p align="center">
-  <img src="https://pacman.antfu.me/bernadethlovaaaaa?theme=light&color=%23ff69b4&animation=true" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
