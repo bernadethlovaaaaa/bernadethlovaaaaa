@@ -29,7 +29,47 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
+## 🎮 Pink Pac-Man Game
+
+<div align="center">
+
+<svg width="300" height="80" viewBox="0 0 300 80">
+  <rect width="300" height="80" fill="#fff0f6"/>
+
+  <!-- Dots -->
+  <circle cx="100" cy="40" r="4" fill="#ffb6c1">
+    <animate attributeName="opacity" from="1" to="0" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="140" cy="40" r="4" fill="#ffb6c1">
+    <animate attributeName="opacity" from="1" to="0" begin="0.2s" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="180" cy="40" r="4" fill="#ffb6c1">
+    <animate attributeName="opacity" from="1" to="0" begin="0.4s" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="220" cy="40" r="4" fill="#ffb6c1">
+    <animate attributeName="opacity" from="1" to="0" begin="0.6s" dur="2s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Pacman body -->
+  <circle cx="60" cy="40" r="20" fill="#ff69b4">
+    <animate attributeName="cx" from="20" to="260" dur="2s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Pacman mouth -->
+  <polygon points="60,40 80,30 80,50" fill="#fff0f6">
+    <animateTransform attributeName="transform" type="rotate"
+      from="0 60 40" to="20 60 40" dur="0.2s" repeatCount="indefinite" direction="alternate"/>
+    <animate attributeName="points"
+      from="60,40 80,30 80,50"
+      to="60,40 75,34 75,46"
+      dur="0.2s"
+      repeatCount="indefinite"/>
+    <animate attributeName="opacity"
+      from="1" to="0.2" dur="0.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity"
+      from="0.2" to="1" dur="0.2s" repeatCount="indefinite" begin="0.2s"/>
+  </polygon>
+</svg>
+
+</div>
 
